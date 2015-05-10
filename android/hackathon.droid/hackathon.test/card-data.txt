@@ -1,0 +1,192 @@
+﻿{
+  "gameplay": {
+    "id": 1,
+    "ruleset": {
+      "id": 1,
+      "rule_matches": [
+        {
+          "id": 1,
+          "rule": {
+            "id": 1,
+            "name": "You",
+            "description": "Choose someone to drink"
+          },
+          "card": {
+            "id": 1,
+            "name": "2",
+            "letter": "2",
+            "rank": 1
+          }
+        },
+        {
+          "id": 2,
+          "rule": {
+            "id": 2,
+            "name": "Me",
+            "description": "You drink"
+          },
+          "card": {
+            "id": 2,
+            "name": "3",
+            "letter": "3",
+            "rank": 2
+          }
+        },
+        {
+          "id": 3,
+          "rule": {
+            "id": 3,
+            "name": "Whores",
+            "description": "Women drink"
+          },
+          "card": {
+            "id": 3,
+            "name": "4",
+            "letter": "4",
+            "rank": 3
+          }
+        },
+        {
+          "id": 4,
+          "rule": {
+            "id": 4,
+            "name": "Never have I ever",
+            "description": "Play the game 'Never have I ever' with either a given number of fingers (often 5) or one rotation"
+          },
+          "card": {
+            "id": 4,
+            "name": "5",
+            "letter": "5",
+            "rank": 4
+          }
+        },
+        {
+          "id": 5,
+          "rule": {
+            "id": 5,
+            "name": "Dicks",
+            "description": "Men drink"
+          },
+          "card": {
+            "id": 5,
+            "name": "6",
+            "letter": "6",
+            "rank": 5
+          }
+        },
+        {
+          "id": 6,
+          "rule": {
+            "id": 6,
+            "name": "Heaven",
+            "description": "All point up, last one drinks"
+          },
+          "card": {
+            "id": 6,
+            "name": "7",
+            "letter": "7",
+            "rank": 6
+          }
+        },
+        {
+          "id": 7,
+          "rule": {
+            "id": 7,
+            "name": "Social",
+            "description": "Everybody drinks"
+          },
+          "card": {
+            "id": 7,
+            "name": "8",
+            "letter": "8",
+            "rank": 7
+          }
+        },
+        {
+          "id": 8,
+          "rule": {
+            "id": 8,
+            "name": "Bust a rhyme",
+            "description": "The player who draws the card says a phrase and each person to the left says a phrase that rhymes until one player breaks the rhyme and drinks"
+          },
+          "card": {
+            "id": 8,
+            "name": "9",
+            "letter": "9",
+            "rank": 8
+          }
+        },
+        {
+          "id": 9,
+          "rule": {
+            "id": 9,
+            "name": "Categories",
+            "description": " The player who has drawn a king creates a general category, then players must list items that fit into the chosen category. For example, a player could choose the category 'Candy Bars'. He or she then starts the list by naming a specific candy bar. The other players then go around the table naming other candy bars. This continues until a player fails to name a new candy bar or names one that has already been said, at which point he or she drinks."
+          },
+          "card": {
+            "id": 9,
+            "name": "10",
+            "letter": "10",
+            "rank": 9
+          }
+        },
+        {
+          "id": 10,
+          "rule": {
+            "id": 10,
+            "name": "Questions",
+            "description": "The person who draws asks another player a question, who, in turn, must then straightaway ask a different player a completely unrelated question and so on til someone misses and then drinks"
+          },
+          "card": {
+            "id": 10,
+            "name": "Jack",
+            "letter": "J",
+            "rank": 10
+          }
+        },
+        {
+          "id": 11,
+          "rule": {
+            "id": 11,
+            "name": "Waterfall",
+            "description": "The player who has drawn an ace starts a Waterfall. The direction of the Waterfall is chosen by the player who drew the ace, then all players start drinking at the same time. The player who drew the ace is the first to stop drinking. When he or she stops, the first player in the direction of the Waterfall is allowed to stop drinking. When that player stops, the player sitting next to them is allowed to stop, and so on until all players have stopped drinking."
+          },
+          "card": {
+            "id": 11,
+            "name": "Queen",
+            "letter": "Q",
+            "rank": 11
+          }
+        },
+        {
+          "id": 12,
+          "rule": {
+            "id": 12,
+            "name": "King's cup",
+            "description": "The first three players to draw a king pour a portion of his/her beer into a communal cup, and the player who draws the fourth king drinks it."
+          },
+          "card": {
+            "id": 12,
+            "name": "King",
+            "letter": "K",
+            "rank": 12
+          }
+        },
+        {
+          "id": 13,
+          "rule": {
+            "id": 13,
+            "name": "Make a rule",
+            "description": "Make a rule that will stick for the rest of the game"
+          },
+          "card": {
+            "id": 13,
+            "name": "Ace",
+            "letter": "A",
+            "rank": 13
+          }
+        }
+      ]
+    }
+  }
+}

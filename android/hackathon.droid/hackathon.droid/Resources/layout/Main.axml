@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:background="@android:color/white"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp"
+    android:paddingTop="20dp"
+    android:layout_height="fill_parent">
+    <ImageView
+        android:layout_width="134dp"
+        android:layout_height="134dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logo" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="CIRCLE OF"
+        android:textSize="40sp"
+        android:textColor="@android:color/black" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="DEATH"
+        android:textSize="40sp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="20dp" />
+    <TextView
+        android:text="Before starting the game, players must gather around a table and place an empty can in the center. A standard deck of cards is then shuffled and spread face down, in a circle around the can, forming the &quot;Circle of Death&quot;."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="20dp" />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:text="START"
+        android:id="@+id/btn_start" />
+</LinearLayout>

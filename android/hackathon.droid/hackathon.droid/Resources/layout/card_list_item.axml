@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:background="@android:color/white"
+    android:layout_weight="1">
+    <TextView
+        android:text="2"
+        android:id="@+id/card_number"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:gravity="center" />
+    <TextView
+        android:text="Drink"
+        android:id="@+id/card_description"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:gravity="center_vertical" />
+</LinearLayout>

@@ -1,0 +1,16 @@
+hackathon.droid.Activities.CardListView, hackathon.droid;md52f4e9aa914243b0c5bb7b22ac19ef178.CardListView
+hackathon.droid.Activities.CardListView, hackathon.droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52f4e9aa914243b0c5bb7b22ac19ef178.CardListView
+hackathon.droid.Activities.CardListView;md52f4e9aa914243b0c5bb7b22ac19ef178.CardListView
+hackathon.droid.activities.CardListView;md52f4e9aa914243b0c5bb7b22ac19ef178.CardListView
+hackathon.droid.MainActivity, hackathon.droid;md5cd3ce455d71c98f12ce78bc7641ba6c3.MainActivity
+hackathon.droid.MainActivity, hackathon.droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cd3ce455d71c98f12ce78bc7641ba6c3.MainActivity
+hackathon.droid.MainActivity;md5cd3ce455d71c98f12ce78bc7641ba6c3.MainActivity
+hackathon.droid.MainActivity;md5cd3ce455d71c98f12ce78bc7641ba6c3.MainActivity
+hackathon.droid.ListAdapters.CardListAdapter, hackathon.droid;md5b1de4c70cf4ede89c8bade70da91866b.CardListAdapter
+hackathon.droid.ListAdapters.CardListAdapter, hackathon.droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b1de4c70cf4ede89c8bade70da91866b.CardListAdapter
+hackathon.droid.ListAdapters.CardListAdapter;md5b1de4c70cf4ede89c8bade70da91866b.CardListAdapter
+hackathon.droid.listadapters.CardListAdapter;md5b1de4c70cf4ede89c8bade70da91866b.CardListAdapter
+hackathon.droid.CardDescriptionActivity, hackathon.droid;md5cd3ce455d71c98f12ce78bc7641ba6c3.CardDescriptionActivity
+hackathon.droid.CardDescriptionActivity, hackathon.droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cd3ce455d71c98f12ce78bc7641ba6c3.CardDescriptionActivity
+hackathon.droid.CardDescriptionActivity;md5cd3ce455d71c98f12ce78bc7641ba6c3.CardDescriptionActivity
+hackathon.droid.CardDescriptionActivity;md5cd3ce455d71c98f12ce78bc7641ba6c3.CardDescriptionActivity
